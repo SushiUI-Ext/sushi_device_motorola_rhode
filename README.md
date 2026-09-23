@@ -5,7 +5,7 @@ Configurations for this SushiUIext device written in Makefile and Shell.
 
 ![rhode](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_rhode/refs/heads/main/rhode.png)
 
-Copyright © 2023 Motorola Mobility LLC. All rights reserved.
+Copyright © 2022 Motorola Mobility LLC. All rights reserved.
 
 Copyright (c) 2026 SushiUI / SushiUI Extended. All rights reserved.
 
