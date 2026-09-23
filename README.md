@@ -40,6 +40,6 @@ make BETA=1
 
 # Maintainers of this device
 
-[Kultrinhaa](https://github.com/Kultrinhaa) [banned account (will have 404. only used for the first commit/a)](https://github.com/KultrinhaGihub)
+[Kultrinhaa](https://github.com/Kultrinhaa) [banned account (will have 404. only used for the first commit/s)](https://github.com/KultrinhaGihub)
 
 [rebangkkuser (bangkkuser)](https://github.com/rebangkkuser)
