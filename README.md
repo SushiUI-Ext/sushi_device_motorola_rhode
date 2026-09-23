@@ -1,9 +1,9 @@
-# SushiUI tree for Motorola Moto G84 5G (bangkk)
+# SushiUI tree for Motorola Moto G52 (rhode)
 (for SushiUI Extended)
 
 Configurations for this SushiUIext device written in Makefile and Shell.
 
-![bangkk](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_bangkk/refs/heads/main/bangkk.png)
+![rhode](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_rhode/refs/heads/main/rhode.png)
 
 Copyright © 2023 Motorola Mobility LLC. All rights reserved.
 
@@ -20,7 +20,7 @@ If you are installing SushiUI on your device,
 * BOOM! goes the dynamite
 ```
 
-## Building on bangkk
+## Building on rhode
 after all
 ```bash
 . ./envsetup.sh

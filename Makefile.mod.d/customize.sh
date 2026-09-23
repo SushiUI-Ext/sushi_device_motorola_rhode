@@ -1,7 +1,7 @@
 #!/system/bin/sh
 
 echo "This installation:"
-echo "Device: motorola-bangkk"
+echo "Device: motorola-rhode"
 echo "Sushi version: 1.1.2"
 echo "Bugs: beta not compiling"
 echo "Release channel: stable"
@@ -12,16 +12,16 @@ SDK="$(getprop ro.build.version.sdk)"
 if [ "$SDK" -ge 36 ]; then
     :
 else
-    echo "Wrong SDK, sorry"
+    echo "Wrong SDK, sorry.."
     exit 1
 fi
 
 echo "I: Checking device"
 DEVICE="$(getprop ro.product.device)"
 
-if [ "$DEVICE" = "bangkk" ]; then
+if [ "$DEVICE" = "rhode" ]; then
     :
 else
-    echo "Wrong device, sorry"
+    echo "Wrong device, sorry.."
     exit 1
 fi

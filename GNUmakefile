@@ -11,7 +11,7 @@ SHELL := $(BASH)
 V ?= 0
 BETA ?= 0
 
-DEVICE := bangkk
+DEVICE := rhode
 PROJECT := SushiUI_EXT
 
 MAKEFILE_DIR := Makefile.sh.d

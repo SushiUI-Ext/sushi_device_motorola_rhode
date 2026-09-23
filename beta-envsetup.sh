@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 #
-# Copyright (c) 2026 SushiUI Extended 
+# Copyright (c) 2026 SushiUI Extended
 # All rights reserved
 
-DEVICE="bangkk"
+DEVICE="rhode"
 VERSION="1.2.0b1"
 VENDOR="motorola"
 AB="true"
