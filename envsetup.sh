@@ -4,17 +4,18 @@
 # Copyright (c) 2026 SushiUI Extended
 # All rights reserved
 
+
 DEVICE="rhode"
 VERSION="1.1.2"
 VENDOR="motorola"
 AB="true"
 RESOLUTION="1080x2400"
-SOC="QTI SM6375"
+SOC="QTI SM6225"
 ARCHITECTURES="aarch64,armeabi-v7a,armeabi"
-LATEST_SDK="35"
-FIRST_SDK="33"
-BUILDNO="V1TCS35H.88-16-4"
-BUILD_SDK="35"
+LATEST_SDK="33"
+FIRST_SDK="32"
+BUILDNO="T2SRS33.72-22-4-11"
+BUILD_SDK="33"
 # color variables
 RED="\e[31m"
 GREEN="\e[32m"
