@@ -1,2 +1,2 @@
-lineageos_newrel := 5.4.302
-stock := 5.4.233
+lineageos_newrel := 4.19.325
+stock := 4.19.137

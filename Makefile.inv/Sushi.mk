@@ -1,4 +1,4 @@
-DEVICE := bangkk
+DEVICE := rhode
 PROJECT := SushiUI_EXT
 
 MAKEFILE_DIR := Makefile.sh.d

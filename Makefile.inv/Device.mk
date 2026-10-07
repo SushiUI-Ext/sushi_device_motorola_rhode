@@ -1,29 +1,28 @@
-device := bangkk
+device := rhode
 vendor := motorola
-model := "Moto G84 5G"
+model := "Moto G52"
 
 # sdk
 
-firstSDK := 33
-lastSDK := 35
+firstSDK := 31
+lastSDK := 32
 minSushiSDK := 36
 maxSushiSDK := 37
 
 # hardware
 
-CPU := "QTI SN6375"
-RAM := "8GB"
+CPU := "QTI SN6225"
+RAM := "4/6GB"
 UFSTYPE := "UFS 2.2"
-RAMTYPE := "LPDDR5X"
-GPU := "Adreno 619"
+RAMTYPE := "LPDDR4X"
+GPU := "Adreno 610"
 
 # FW
-latest := V1TCS35H.88-16-8
-oldrel := V1TCS35H.88-16-5
-model_numb := XT2347-1
+latest := T2SRS33.72-22-4-11
+oldrel := S1SRS32.38-132-15
+model_numb := XT2221-2
 
 # connections
 wifi := "WiFi 5 (802.11ac)"
-bluetooth := "5.1 with BLE"
-mobile_network := "5G, 4G+, 4G (LTE), 3G and 2G"
-
+bluetooth := "5.0"
+mobile_network := "4G (LTE), 3G and 2G"
