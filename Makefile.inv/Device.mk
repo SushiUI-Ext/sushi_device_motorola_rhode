@@ -4,8 +4,8 @@ model := "Moto G52"
 
 # sdk
 
-firstSDK := 31
-lastSDK := 32
+firstSDK := 32
+lastSDK := 33
 minSushiSDK := 36
 maxSushiSDK := 37
 
