@@ -3,7 +3,9 @@
 
 Configurations for this SushiUIext device written in Makefile and Shell.
 
+
 ![rhode](https://raw.githubusercontent.com/SushiUI-Ext/sushi_device_motorola_rhode/refs/heads/main/rhode.png)
+
 
 Copyright © 2022 Motorola Mobility LLC. All rights reserved.
 
@@ -21,25 +23,22 @@ If you are installing SushiUI on your device,
 ```
 
 ## Building on rhode
-after all
 ```bash
 . ./envsetup.sh
-```
-or
-``bash
-. ./beta-envsetup.sh
+smake
 ```
 
+Build options:
 ```bash
-make
+smake MAINTAINER=name
+smake OFFICIAL=1 MAINTAINER=name
+smake MAINTAINER="bangkkuser kultrinhaa_"
 ```
-or beta
-```bash
-make BETA=1
-```
+
+`MAINTAINER` defaults to the output of `whoami`. `OFFICIAL` defaults to `0`.
 
 # Maintainers of this device
 
-[Kultrinhaa](https://github.com/Kultrinhaa) [banned account (will have 404. only used for the first commit/s)](https://github.com/KultrinhaGihub)
+[Kultrinhaa](https://github.com/Kultrinhaa) [banned account (will have 404. only used for the first commit/s)](https://github.com/KultrinhaaGihub)
 
 [rebangkkuser (bangkkuser)](https://github.com/rebangkkuser)
